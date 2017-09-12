@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flozzy</string>
+
+
+    <string name="internet">please connect to the internet to enable functionality</string>
+</resources>
